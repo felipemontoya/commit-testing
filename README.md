@@ -13,3 +13,7 @@ Segundo commit con otro usuario
 Tercer commit copiando el metadata de un commit anterior
 
 `git commit -c bc09131b418167ba8d0f0c27398a35c88b6bd208`
+
+Cuarto commit hecho por fmo con signature
+
+`git config --global commit.gpgsign true`
